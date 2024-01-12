@@ -1,0 +1,38 @@
+_repo: Ginevra-b-or-The-old-oak-chest-a-Christmas-story_72586
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wallace, Lew
+    alias: Wallace, Lewis
+    birthdate: 1827
+    deathdate: 1905
+    gutenberg_agent_id: '836'
+    url: http://www.gutenberg.org/2009/agents/836
+    wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
+creator:
+  author:
+    agent_name: Wallace, Susan E.
+    gutenberg_agent_id: '56737'
+    url: http://www.gutenberg.org/2009/agents/56737
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72586'
+language: en
+pgterms:marc904: https://archive.org/details/ginevraoroldoakc00wall/page/n9/mode/2up
+pgterms:marc905: 20220820000301wallace
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bThe H. W. Hagemann Publishing Company, $c1886,
+  pubdate 1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ginevra : $b or The old oak chest, a Christmas story'
+url: http://www.gutenberg.org/ebooks/72586
